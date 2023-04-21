@@ -1050,3 +1050,12 @@ footer {
         justify-self: flex-start
     }
 }
+
+.validation-summary-errors ul {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
